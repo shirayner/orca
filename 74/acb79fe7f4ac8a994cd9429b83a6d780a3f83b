@@ -1,0 +1,28 @@
+src/renderer/src/lib/pane-manager/pane-terminal-options.ts
+  s_02f6591cce33e0::t_5e767fabfdce94 41
+src/renderer/src/lib/terminal-themes/defaults.ts
+  s_02f6591cce33e0::t_cebff77a611d2c 31
+  s_02f6591cce33e0::t_e0cfb38e750d5e 54-55
+  s_02f6591cce33e0::t_f4678d8c09cfda 33-34,39-53
+  s_02f6591cce33e0::t_a4c203a809fc04 32,35-38
+src/renderer/src/assets/main.css
+  s_02f6591cce33e0::t_f2959dc85bb3d3 18-25
+src/shared/constants.ts
+  s_02f6591cce33e0::t_c6f3c27a19d5c5 91,94,96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.28-trip",
+  "base_commit_sha": "74acb79fe7f4ac8a994cd9429b83a6d780a3f83b",
+  "prompts": {},
+  "sessions": {
+    "s_02f6591cce33e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a40427d1-1a79-4f42-b7f4-82560183a6d0",
+        "model": "claude-opus-4-6-v1"
+      },
+      "human_author": "r.shi <r.shi@trip.com>"
+    }
+  }
+}
