@@ -88,12 +88,12 @@ export const BROWSER_FAMILY_LABELS: Record<string, string> = {
 function defaultTerminalFontFamily(): string {
   const platform = typeof process !== 'undefined' ? process.platform : ''
   if (platform === 'win32') {
-    return 'Cascadia Mono'
+    return 'Geist Mono'
   }
   if (platform === 'linux') {
-    return 'DejaVu Sans Mono'
+    return 'Geist Mono'
   }
-  return 'SF Mono' // macOS default
+  return 'Geist Mono'
 }
 
 export const getDefaultPrimarySelectionMiddleClickPaste = (

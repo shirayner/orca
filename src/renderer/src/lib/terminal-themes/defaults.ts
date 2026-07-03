@@ -28,6 +28,31 @@ export const DEFAULT_TERMINAL_THEMES: TerminalThemeMap = {
     brightWhite: '#eaeaea'
   },
 
+  'Muted Ink Dark': {
+    background: '#101014',
+    foreground: '#a0a0a6',
+    cursor: '#a0a0a6',
+    cursorAccent: '#101014',
+    selectionBackground: '#28303a',
+    selectionForeground: '#b0b0b4',
+    black: '#151518',
+    red: '#b87060',
+    green: '#7d9462',
+    yellow: '#c8a058',
+    blue: '#6a8cb5',
+    magenta: '#9680aa',
+    cyan: '#6a9090',
+    white: '#9a9a9e',
+    brightBlack: '#505054',
+    brightRed: '#d08a6a',
+    brightGreen: '#96ae72',
+    brightYellow: '#dab06a',
+    brightBlue: '#7ea4c8',
+    brightMagenta: '#ae96c4',
+    brightCyan: '#80a8a8',
+    brightWhite: '#b4b4b8'
+  },
+
   'Builtin Tango Light': {
     background: '#ffffff',
     foreground: '#2e3434',
